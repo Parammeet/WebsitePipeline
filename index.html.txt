@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Simple Index Page</title>
+<script>
+console.log("Hii JS Developers");
+</script>
+</head>
+<body>
+<h1>Hiiii</h1>
+</body>
+</html>
+
